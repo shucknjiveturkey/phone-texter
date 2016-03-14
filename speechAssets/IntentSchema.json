@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "PhoneTexterIntent",
+      "slots": [
+      {
+        "name" : "Name",
+        "type": "LIST_OF_NUMBERS"
+      }
+     ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
