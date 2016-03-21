@@ -3,15 +3,11 @@
     {
       "intent": "PhoneTexterIntent",
       "slots": [
-        {
-          "name": "Name",
-          "type": "NAME_OF_PHONE"
-        }
-      ]
-    },
-   
-    {
-      "intent": "SupportedCitiesIntent"
+      {
+        "name" : "Name",
+        "type": "LIST_OF_NAMES"
+      }
+     ]
     },
     {
       "intent": "AMAZON.HelpIntent"

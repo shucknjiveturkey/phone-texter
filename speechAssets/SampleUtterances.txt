@@ -1,1 +1,8 @@
-PhoneTexterIntent say text {Name}
+PhoneTexterIntent {Name}
+
+
+AMAZON.HelpIntent help
+
+AMAZON.StopIntent stop
+
+AMAZON.CancelIntent done
